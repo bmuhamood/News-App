@@ -1,10 +1,4 @@
-# Daily News For You [![HitCount](http://hits.dwyl.com/IamOmaR22/Django-Online-News-Portal.svg)](http://hits.dwyl.com/IamOmaR22/Django-Online-News-Portal)
-
-*Daily News For You is an online news portal. This is the online version of a newspaper, as a stand-alone publication.*
-
-**[Live Demo - 1](https://iamomar22.pythonanywhere.com/)**
-
-**[Live Demo - 2](http://tnbjpnews.com/)**
+*Nakasero Mail For You is an online news portal. This is the online version of a newspaper, as a stand-alone publication.*
 
 # Features:
 - An Admin Can Get All The Access Of This News Site.
@@ -19,7 +13,7 @@
 - If there is a news for particular cat or subcat then the cat will be shown.
 - In contact section i gave a QR Code. By scanning QR Code you can redirected into My github account.
 - I used forloop to view news in different section.
-- Therer is a trending section. You can see the breaking newses here.
+- There is a trending section. You can see the breaking newse here.
 etc...........
 
 # Tools
@@ -34,9 +28,9 @@ etc...........
 
 ## I Used Here My Own Customized Admin Panel.
 ```
-This Website is fully Dynamic.
-You can change every part through Admin Panel,
-Masteruser can controle everything.
+- This Website is fully Dynamic.
+- You can change every part through Admin Panel,
+- Masteruser can controle everything.
 ```
 
 # Screenshots of the Project:
@@ -44,9 +38,3 @@ Masteruser can controle everything.
   <img width="660" height="300" src="main/static/front/images/screenshots/a.png">
   <img width="660" height="300" src="main/static/front/images/screenshots/b.png">
 </p>
-
-### Let's celebrate 🍕🍰🍕 If you like my project, then simply give a star 🌟✰⭐✪🔯✨
-
-**Copyright (c)** 2020-3020 Md. Omar Faruk
-
-## Go Through This Site Then You Will Know About This Site Properly. I made this project for my Web Engineering Course.
